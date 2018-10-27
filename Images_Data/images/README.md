@@ -1,4 +1,4 @@
-#Training DENN on CIFAR10 CIFAR100 Fashion and MNIST dataset
+# Training DENN on CIFAR10 CIFAR100 Fashion and MNIST dataset
 * At the begining the data ought to convert to tfrecord data
 ## CIFAR10
 * sh train_network_on_cifar10.sh
