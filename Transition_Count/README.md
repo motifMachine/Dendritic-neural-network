@@ -1,4 +1,4 @@
-# Transition count on DENN Maxout and FNN
+# Transition count on DENN, Maxout and ReLu FNN
 
 ## Versions
 * python 3.6
