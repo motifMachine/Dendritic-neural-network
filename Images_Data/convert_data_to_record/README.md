@@ -1,4 +1,4 @@
-#Make tfrecord file
+# Make tfrecord file
 
 ## CIFAR10
 * python cifar10_convert_to_record.py
